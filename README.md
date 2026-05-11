@@ -43,6 +43,7 @@ The project follows a **Star Schema** design to ensure optimal performance and s
 * **Power BI:** Visualization & Dashboarding.
 * **Power Query:** Data Cleaning, Transformation (ETL), and derived column creation.
 * **DAX:** Advanced measures for dynamic KPI calculations and period-over-period analysis.
+[View Detailed DAX Measures Documentation](./dax.md)
 
 ##  How to Use
 1. Clone the repository.
